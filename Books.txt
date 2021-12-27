@@ -1,0 +1,5 @@
+1 R&J 35 Romance Shekspeere
+2 Morometii 50 Novel 1
+3 Ion 25 Horror 16
+4 Ghost 30 Horror 18
+5 Baltagul 20 Novel 0

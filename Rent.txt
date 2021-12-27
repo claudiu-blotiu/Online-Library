@@ -1,0 +1,4 @@
+1 1 1 Alex 17
+2 1 5 Alex 17
+3 2 2 Bogdan 30
+4 2 3 Bogdan 30
